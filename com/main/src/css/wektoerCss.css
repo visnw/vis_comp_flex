@@ -1,0 +1,48 @@
+.vis-header{
+  height: 100px;
+  border-radius: 6px;
+  background-color: #00b386;
+  width: 98%;
+  margin-top: 10px;
+}
+
+.bod{
+  border : 2px solid red;
+}
+
+.bod2{
+  border: 2px solid green;
+}
+
+.vis-menu-container{
+  height: inherit;
+}
+
+.vis-menu{
+  height: 97%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 85px;
+  border-radius: 5px;
+  background-color: #294756;
+}
+
+.vis-content-container{
+  margin-left: -50px;
+  padding-top: 20px;
+}
+
+.vis-message{
+  height: 40px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 3px;
+  background-color: #ffffe6;
+  opacity:0.6;
+}
+
+.vis-body-container{
+  height: 690px;
+}
